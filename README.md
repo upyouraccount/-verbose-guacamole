@@ -1,0 +1,2 @@
+# -verbose-guacamole
+ verbose-guacamole
